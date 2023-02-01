@@ -5,6 +5,12 @@
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@fullcalendar/core": "^6.0.2",
+    "@fullcalendar/daygrid": "^6.0.2",
+    "@fullcalendar/interaction": "^6.0.2",
+    "@fullcalendar/list": "^6.0.2",
+    "@fullcalendar/react": "^6.0.2",
+    "@fullcalendar/timegrid": "^6.0.2",
     "@mui/icons-material": "^5.11.0",
     "@mui/material": "^5.11.2",
     "@mui/x-data-grid": "^5.17.17",
@@ -48,5 +54,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/ahmedatif99/dashboard.git",
+  "author": "ahmedatif99 <ahmedahmed1919a@gmail.com>",
+  "license": "MIT"
 }
